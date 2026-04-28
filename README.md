@@ -5,7 +5,7 @@ This repository contains my Python practice tasks created during practice sessio
 **Description**
 This project include Jupytor Notebook files with solutions to basis python problems.
 
-**Goal **
+**Goal**
 To improve my understanding of python programming
 
 **How to run**
